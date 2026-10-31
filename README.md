@@ -22,6 +22,10 @@
 
 ---
 
+<div align="center">
+  <img src="nextos-devices.svg" width="100%" alt="NEXTOS on supported Redmi and POCO devices" />
+</div>
+
 ## Devices
 
 | Device | Codename | Status |
